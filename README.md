@@ -1,1 +1,3 @@
 # CalebWhite.github.io
+
+I created an account and downloaded Github. Then on Github's website I made a new Repository and named it: CalebWhite.github.io . After that I went back to the Github website, clicked the + at the top left and clicked on New Repository, named it: CalebWhite.github.io , enabled the README file then clicked Create Repository. After that I clicked on the green button that says Code, and copied the URL it gave me. Next I went back to the Github on my PC. Then I clicked File and clicked on the Clone Repository and went to the URL section and pasted the Link from the Code section on the Github website. Once I got into the next prompt I chose my Github file I made called: CalebWhite.github.io_Clone and named the file that as well and cloned it in there.
